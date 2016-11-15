@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rony-golan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "foobar": "1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ronylangbord/getting-started.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ]
 }
